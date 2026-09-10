@@ -48,11 +48,8 @@
 ├── chinay.mp3                # 背景音乐 Y
 ├── 程设综合项目.sln            # Visual Studio 解决方案
 ├── 程设综合项目.vcxproj        # Visual Studio 项目文件
-├── 程设综合项目.vcxproj.filters
-└── docs/                     # 补充文档
-    ├── game_final_source.cpp.txt   # 源码备份（UTF-8 编码）
-    ├── pintu_final_source.h.txt    # 头文件备份（UTF-8 编码）
-    └── 实验报告.docx                # 综合项目实验报告
+└── 程设综合项目.vcxproj.filters
+
 ```
 
 ## 构建与运行
